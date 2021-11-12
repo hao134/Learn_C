@@ -16,3 +16,5 @@ int main() {
     printf("After: %d %d %d \n", a, b, c);
     return 0;
 }
+
+/* sort three number with a straightforward way */
